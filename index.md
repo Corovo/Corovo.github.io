@@ -24,4 +24,4 @@ Colegio Natzaret | Sep 2016 - Jun 2020
 - Inglés (A2)
 
 ## Paginas extra
-- <a href="Actividad_5.2_JanGomez.html"> Guardian tales
+- <a href="Home.html"> Guardian tales</a>
