@@ -1,0 +1,141 @@
+
+* {
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+.guardian-tales-header{
+    float:left;
+    position: relative;
+    top: -100px;
+    right: -50px;
+}
+
+body{
+    background: #274472;
+}
+
+header{
+    background-image:url(img/img_banner2.0.jpg) ;
+}
+
+header {
+    background-color: #151924;
+}
+
+nav {
+    background-color:#5885af;
+}
+
+main {
+    background-color: #333333;
+}
+
+div#enlaces ul li{
+    list-style: none;
+    text-decoration: none;
+}
+div video{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+aside {
+    background-color: #5885af;
+    width: 25%;
+    float: right;
+    top: 100;
+}
+
+aside > h3 {
+    color: rgb(0, 0, 0);
+}
+
+section#sect1{
+    background-color: #5885af;
+    width: 60%;
+}
+
+section#sect2{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #5885af;
+}
+
+article > h3 {
+    color: ghostwhite;
+}
+
+article {
+    background-color: #5885af;
+}
+
+footer {
+    background-color: #595358;
+}
+
+footer > h2 {
+    color: rgb(255, 255, 255);
+}
+
+header, main, aside, section, article{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+#banner{
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+    color: white;
+}
+
+#titulo{
+    color: white;
+}
+
+#subtitulo{
+    color: white;
+    font-family: cursive;
+}
+
+#mayreel{
+    /*border: black 5px solid;*/
+    border-radius: 50%;
+}
+
+#video{
+    /*border: black 5px solid;*/
+}
+
+footer{
+    padding: 20px;
+    text-align: left;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
