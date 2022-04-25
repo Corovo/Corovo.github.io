@@ -17,3 +17,8 @@ equipos, Linux (concretamente Ubuntu), entre otros que he ido
 adquiriendo a lo largo de mi primer año.
 ESO
 Colegio Natzaret | Sep 2016 - Jun 2020
+
+## Idiomas
+- Castellano (Nativo)
+- Catalán (Nativo)
+- Inglés (A2)
