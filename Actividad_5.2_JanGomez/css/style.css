@@ -1,0 +1,123 @@
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: darkslategray;
+}
+
+body{
+    background: #595358;
+}
+
+header{
+    background-image:url(img/img_banner2.0.jpg) ;
+}
+
+header {
+    background-color: #151924;
+}
+
+nav {
+    background-color:rgb(255, 192, 167);
+}
+
+main {
+    background-color: #333333;
+}
+
+aside {
+    background-color: #ffe565;
+    width: 25%;
+    float: right;
+}
+
+aside > h3 {
+    color: rgb(0, 0, 0);
+}
+
+section {
+    background-color: darksalmon;
+    width: 60%;
+}
+
+section.full-width{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+section.full-width .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+}
+
+section.full-width .container div.img-absolute{
+    position: absolute;
+    
+}
+
+section.full-width .container div.img-absolute.gif-fp{
+
+    
+}
+
+section.full-width .container div.img-absolut.gif-mayreel{
+
+    
+}
+
+section.full-width .container div img{
+    width: 100%;
+    max-width: 100px;
+    object-fit: cover;
+    height: auto;
+}
+
+article > h3 {
+    color: ghostwhite;
+}
+
+article {
+    background-color: lightsalmon;
+}
+
+footer {
+    background-color: #595358;
+}
+
+footer > h2 {
+    color: rgb(255, 255, 255);
+}
+
+header, nav, main, aside, section, article, footer{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+#banner{
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+    color: white;
+}
+
+#titulo{
+    color: white;
+}
+
+#subtitulo{
+    color: white;
+    font-family: cursive;
+}
+
+#mayreel{
+    /*border: black 5px solid;*/
+    border-radius: 50%;
+}
+
+#video{
+    /*border: black 5px solid;*/
+}
+
