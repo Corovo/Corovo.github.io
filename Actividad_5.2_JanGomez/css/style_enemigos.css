@@ -1,0 +1,114 @@
+*{
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.ancho{
+    background: #43465B;
+    width: 100%;
+    height: 200px;
+}
+
+body{
+background-color: #274472;
+}
+
+main{
+    margin: 1em 1em;
+    background-color: #333333;
+}
+
+section{
+    background-color: #5885af;
+    width: 40%;
+    border: black 5px solid;
+    padding: 1em;
+}
+
+table{
+    background-color: #5885af;
+    width: 70%;
+    border: black 5px solid;
+    padding: 1em;
+    margin-left: 2%;
+    margin-right: 28%;
+}
+
+.right{
+    position: relative;
+    float: right;
+    right: 100px;
+    top: -280px;
+}
+
+
+aside{
+    background-color: #5885af;
+    position: absolute;
+    float: right;
+    padding: 1em 1em;
+    top: 350px;
+    right: 300px;
+    border: black 5px solid;
+}
+
+
+
+aside ul li{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+#sect1{
+    width: 35%;
+    margin-left: 10%;
+    margin-right: 55%;
+
+}
+
+footer{
+    color: black;
+    background-color: gray;
+    padding: 1em;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  header li {
+    float: left;
+  }
+  
+  header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  header li a:hover {
+    background-color: #111;
+  }
+
+  th{
+    font-size: 30px;
+}
+
+th{
+    padding: 5px;
+}
+
+td{
+    padding: 1em;
+}
